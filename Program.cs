@@ -30,9 +30,9 @@ class Program
         ");
         Console.ResetColor();
 
-        string host = "charweel-coding-kyp21kh62ka.ssh.ws-us118.gitpod.io";
-        string username = "charweel-coding-kyp21kh62ka";
-        string password = "AAAAB3NzaC1yc2EAAAADAQABAAACAQC06TQWx0g4bk1Z9KOj4pJu7AJjhcDOnwE1W/E8v+8xJ7l2Fxg/FbKMonDss39W0E2T/xvaGNpHFXZ9gzL6gzV/8FKiUBjIoNNNKjWwKwn3k0gQElyEyzQ+a1yNganVLodUyIj6PUYPZrIL4cCBOs/7YxfRNUl6gfa5Gzh2/qo1ScWr4rhj/hBXHPN+UiTkJGblrzcQ6/UMvVU1Gv/Byv3YlMbGT/AwgV+A53mEWS5n3FlugeNM8Fi8XZD3+RoPOR9dxXIqNERWiPFjN2NZmFeMLqFIrzdeGg8CAh8zu8NGAsnWPqZPpaGPbw2w1QfGtOtBy6UUakmPHshinUIQuuu9rVeZZbkGEjrtZ/VFZa/mdtv6iB8Z+jTJhlc3MneIyEi6EXgxlFvnxlRGiC2/2elv6fHkXtMck9JtjYNsHPstRUMfwiW+ea1nLMJl1EyXeOWXYvQVNZNbB70A+RwKtKY4L8y9qOuvm5LsUhEihwByJKZdWGYMn37z0RuCAb+NLOu31qIbNiE47iXVFNjQmO4Mc/8NEfdRx21UUL5vQwevTTwaG9NTcpk4iYBUyc8YTcgmWCJoa5BYOWisRm37wn8VUvd40P5eaXUk9S+8ykBtlS9EyPM8cJtgm4dxohmey9rcPWwEQz8kQJrTzQJwkeyEwwYq7GHa3SLXvACwZMMeyQ==";
+        string host = "";
+        string username = "";
+        string password = "";
 
         int localPort = 25565;
         int remotePort = 25565;
